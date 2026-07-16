@@ -6,7 +6,7 @@
 
 ---
 
-Welcome to the resource site for Batch 1 of the GEIDA Foundation Level Certification Training. This site contains all session recordings, slide decks, exercises, and reference materials from the four-day training. It serves as both a post-training reference for Batch 1 participants and a self-paced learning resource for future batches.
+Welcome to the resource site for the GEIDA Foundation Level Certification Training. This site contains all session recordings, slide decks, exercises, and reference materials from the four-day training. It serves as both a training resource repository for Batch 1 participants and a learning resource for future batches.
 
 !!! info "How to use this site"
     - Follow the [Training Agenda](agenda.md) for the full programme overview.
@@ -37,9 +37,7 @@ Over four days, participants work with real web-based tools — no desktop softw
 | Role | Name | Organisation |
 |---|---|---|
 | **Trainer & Programme Lead** | Dr Sajid Pareeth | Expo City Dubai |
-| **IsDB Coordination** | Bakhodir Mirzaev | IsDB — ESID/AWRD |
-| **IsDB Coordination** | Bashir Kagere | IsDB |
-| **IsDB Coordination** | Bassam Yahiya | IsDB |
+| **IsDB Coordination** | Bakhodir Mirzaev, Bashir Kagere, Bassam Yahiya | IsDB |
 
 ---
 
@@ -54,4 +52,4 @@ Over four days, participants work with real web-based tools — no desktop softw
 
 ---
 
-*This site is maintained by the IsDB GEIDA Programme. For questions, contact the ESID/AWRD team.*
+*This site is maintained by the IsDB GEIDA Programme. For questions, contact the training team.*

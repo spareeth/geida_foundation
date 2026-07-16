@@ -22,8 +22,8 @@
 
 The official opening was conducted by:
 
-- **Director, ESID/AWRD** — Brazid Risa *(in person)*
-- **Director, CCD/STI** — May Ali Babiker Eltahir *(online)*
+- **Director, ESID/AWRD**
+- **Director, CCD/STI**
 
 ### Key messages from the opening
 
