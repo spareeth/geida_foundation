@@ -24,7 +24,7 @@
 
 Dr Sajid opened by setting the scene: IsDB finances projects across dozens of member countries every year — agriculture schemes, water networks, road corridors, schools, health centres. Every project has a location. Almost none has a spatial baseline in its appraisal document.
 
-> "Think of the last project report you read. Did it include a single map?" — Dr Sajid Pareeth
+> Think of the last project report you read. Did it include a single map?
 
 Without a spatial baseline, IsDB cannot:
 
