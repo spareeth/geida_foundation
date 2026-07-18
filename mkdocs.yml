@@ -4,14 +4,13 @@ site_description: >-
   IsDB GEIDA Foundation Level Certification Training, 6–9 July 2026.
   Hybrid: IsDB HQ Jeddah + Online. Session recordings, slide decks, and
   resources for self-paced learning.
-site_author: Dr Sajid Pareeth, Expo City Dubai / IsDB GEIDA Programme
+site_author: IsDB GEIDA Programme
 copyright: "IsDB GEIDA Foundation Training · Batch 1 · July 2026, Developed by Terra, Expo City Dubai"
 
 theme:
   name: material
-  logo: assets/isdb-logo.png
-  favicon: assets/isdb-logo.png
-  generator: false
+  logo: assets/Islamic_Development_Bank_logo.png
+  favicon: assets/Islamic_Development_Bank_logo.png
   palette:
     - scheme: default
       primary: blue
