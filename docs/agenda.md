@@ -12,10 +12,10 @@
 
 | Time (Jeddah) | Session | Format |
 |---|---|---|
-| 09:00–09:30 | Welcoming remarks — ESID/AWRD Manager | Remarks |
+| 09:00–09:30 | Welcoming remarks — ESID/AWRD | Remarks |
 | 09:30–10:30 | [Introduction to Earth Observation & Geoinformatics for the Development Sector](day-1/morning.md#session-1--why-geoinformatics-matters) | Lecture · online videos · quiz |
 | 10:30–11:00 | *Tea & Coffee Break* | |
-| 11:00–12:30 | [Concept of spatializing IsDB projects](day-1/morning.md#session-2--fundamentals-of-earth-observation--geoinformatics) | Lecture · group discussion |
+| 11:00–12:30 | [Concept of spatialising IsDB projects](day-1/morning.md#session-2--fundamentals-of-earth-observation--geoinformatics) | Lecture · group discussion |
 | 12:30–13:30 | *Lunch & Prayer Break* | |
 | 13:30–15:00 | [eToolkit — IsDB's geospatial platform to support operations](day-1/afternoon.md#session-3--mainstreaming-eo-in-isdb-operations) | Lecture · quiz |
 | 15:00–16:00 | [Exercise 1: Report generation in eToolkit](day-1/afternoon.md#exercise-1--report-generation-in-etoolkit) | Practical |
@@ -31,7 +31,7 @@
 | 10:30–11:00 | *Tea & Coffee Break* | |
 | 11:30–12:30 | [Mapping indicators relevant to different phases of the project cycle — Use-Case Selection Form opens](day-2/morning.md#exercise-2--etoolkit-continued) | Group discussion · workshop |
 | 12:30–13:30 | *Lunch & Prayer Break* | |
-| 13:30–14:00 | [Official Opening of the GEIDA Staff Certification Training](day-2/afternoon.md#official-opening-of-geida-staff-certification-training) — DGs of GPP and CP; Directors of ESID and CCD | Opening remarks |
+| 13:30–14:00 | [Official Opening of the GEIDA Staff Certification Training](day-2/afternoon.md#official-opening-of-geida-staff-certification-training) | Opening remarks |
 | 14:00–14:30 | [Presentation on GEIDA Platform Development and Staff Certification Training Programme](day-2/afternoon.md#official-opening-of-geida-staff-certification-training) | Presentation |
 | 14:30–15:30 | [Earth observation for project design (PCN–PAD/RRM)](day-2/afternoon.md#session-5--introduction-to-wapor--field-level-analysis) | Lecture · interactive session |
 | 15:30–16:30 | [Exercise 2: Extract relevant indicators for project design](day-2/afternoon.md#session-5--introduction-to-wapor--field-level-analysis) — climate-resilient agriculture, water & infrastructure | Practical |
@@ -60,5 +60,5 @@
 | 12:30–13:30 | *Lunch & Prayer Break* | |
 | 13:30–15:00 | [Group presentations on case-study findings](day-4/afternoon.md#group-presentations-on-case-study-findings) | Group presentations · discussion |
 | 15:00–15:30 | [Interpreting results, lessons learned, feedback, and way forward for GEIDA adoption](day-4/afternoon.md#wrap-up-lessons-learned--way-forward) | Wrap-up session |
-| 15:30–15:45 | Concluding remarks — CCD/STI Manager | Remarks |
+| 15:30–15:45 | Concluding remarks — CCD/STI | Remarks |
 | 15:45–16:00 | Distribution of Foundation Level Certificates | |

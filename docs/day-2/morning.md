@@ -1,10 +1,10 @@
-# Morning — Spatializing IsDB Projects (PCN–PCR)
+# Morning — Spatialising IsDB Projects (PCN–PCR)
 
 **Day 2 · 09:00–12:30 · Modules 2 & 3**
 
 ---
 
-## Session 4 — Spatializing IsDB Projects from PCN to PCR *(09:00–10:30)*
+## Session 4 — Spatialising IsDB Projects from PCN to PCR *(09:00–10:30)*
 
 <div class="video-wrapper">
   <iframe width="100%" height="400"
@@ -21,7 +21,6 @@
 - [:material-file-pdf-box: Day 2 Deck 1v1 — Demo Area](../assets/slides/Day2_Deck1_EO_Geoinformatics_Project_Phases_DemoArea_v1.pdf)
 - [:material-file-pdf-box: Day 2 Deck 1v2 — Irrigated Agriculture Project](../assets/slides/Day2_Deck1_EO_Geoinformatics_Project_Phases_IrrigatedArea_v2.pdf)
 - [:material-file-pdf-box: Day 2 Deck 1v3 — Road Project](../assets/slides/Day2_Deck1_EO_Geoinformatics_Project_Phases_RoadProject_v3.pdf)
-
 
 ---
 
@@ -41,7 +40,7 @@ Day 2 introduced a step-by-step procedure for spatialising a project through its
 | **Post-evaluation** | PPER | Same boundary + 3–5 years post-completion | Long-term trend from eToolkit / GEIDA platform |
 
 !!! tip "Why the same boundary matters"
-    From PCN to PPER there can be a gap of 10+ years. If you don't store the same spatial boundary in a project database, you lose the ability to make a before/after comparison at evaluation. The Minimum Project Data Submission Form (introduced on Day 3) is the first step to fixing this.
+    From PCN to PPER there can be a gap of ten or more years. Without a stored spatial boundary in a project database, a consistent before/after comparison at evaluation is not possible. The Minimum Project Data Submission Form (introduced on Day 3) begins to address this.
 
 ### Three worked examples
 
@@ -51,27 +50,29 @@ The three versions of the Day 2 slide deck demonstrate the same approach for:
     A generic project area used to introduce the methodology — shows how to go from a text description to a boundary, then to an eToolkit report, step by step.
 
 === "Irrigated agriculture"
-    An irrigation scheme project: boundary corresponds to the command area. Key indicators: ETa (actual evapotranspiration), root zone soil moisture (RZSM), surface water extent, LULC. Relevant documents: PAD (environmental baseline, water availability), PIASR (crop status, irrigation efficiency), PCR (irrigated area change before/after).
+    An irrigation scheme project: boundary corresponds to the command area. Key EO-derived indicators: actual evapotranspiration (ETa), relative root zone soil moisture (RZSM), surface water extent, Land Use / Land Cover (LULC). Relevant documents: PAD (environmental baseline, water availability), PIASR (crop status, irrigation efficiency), PCR (irrigated area change before/after). These satellite-derived indicators complement, rather than replace, field measurements and engineering records.
 
 === "Road project"
-    A road corridor project: the spatial element is a line plus a buffer (e.g. 1–5 km). Key indicators: land cover within buffer, flood risk, population exposure, settlement density. Relevant documents: PCN (feasibility, hazard screen), PAD (alignment options, environmental assessment), PCR (construction verification), PPER (infrastructure intact, economic activity change).
+    A road corridor project: the spatial element is a line plus a buffer zone (e.g. 1–5 km). Key indicators: land cover within buffer, flood risk, population exposure, settlement density. Relevant documents: PCN (feasibility, hazard screening), PAD (alignment options, environmental assessment), PCR (construction progress assessment), PPER (infrastructure condition, economic activity change).
 
 ---
 
 ## Bio-physical EO analysis *(10:00–10:30)*
 
-Earth Observation provides a range of bio-physical indicators that map directly onto IsDB sectors:
+Earth Observation provides a range of bio-physical indicators that map onto IsDB sectors:
 
 | Indicator | What it measures | Relevant sector(s) |
 |---|---|---|
-| **RZSM** (Relative Root Zone Soil Moisture) | Soil moisture availability in the root zone | Agriculture · Water · Environment |
-| **ETa** (Actual Evapotranspiration) | Water used by vegetation and bare soil | Agriculture · Water · Irrigation |
+| **RZSM** (Relative Root Zone Soil Moisture) | Soil moisture availability in the root zone, as a fraction of saturation | Agriculture · Water · Environment |
+| **ETa** (Actual Evapotranspiration) | Water consumed by vegetation and bare soil through evaporation and plant transpiration | Agriculture · Water · Irrigation |
 | **Surface water extent** | Mapped water bodies and change over time | Water · WASH · Flood risk |
 | **Land Use / Land Cover (LULC)** | Classification of surface types | All sectors |
-| **Topography / DEM** | Elevation and slope | Infrastructure · Flood risk · Agriculture |
-| **Nighttime lights** | Human activity, electrification | Energy · Urban · Economic development |
-| **Precipitation trends** | Rainfall over time | Agriculture · Water · Climate |
-| **Temperature change** | Surface temperature trends | Climate · Health · Infrastructure |
+| **Topography / DEM** (Digital Elevation Model) | Elevation and slope | Infrastructure · Flood risk · Agriculture |
+| **Nighttime-light intensity** | Emitted light at night — indirect proxy for electrification and economic activity | Energy · Urban · Economic development |
+| **Precipitation trends** | Rainfall patterns over time | Agriculture · Water · Climate |
+| **Surface temperature change** | Land surface temperature trends | Climate · Health · Infrastructure |
+
+These are satellite-derived or modelled products. Each has associated accuracy characteristics, temporal depth, and geographic coverage that should be checked against project requirements.
 
 ---
 
@@ -87,15 +88,18 @@ Earth Observation provides a range of bio-physical indicators that map directly 
   </iframe>
 </div>
 
-Building on Exercise 1, participants applied the eToolkit to a more specific project-relevant area — selecting the **correct Theme** for their sector and a **relevant Phase** to get outputs aligned to an actual project document.
+Building on Exercise 1, participants applied the eToolkit to a more specific project-relevant area — selecting the correct Theme for their sector and a relevant Phase to obtain outputs aligned to an actual project document.
 
-**Key difference from Exercise 1:** move from a generic "identify an area" to a sector-specific analysis:
+**Key difference from Exercise 1:** move from a generic exploration to a sector-specific analysis:
 
-- Agriculture project → select **Agriculture** theme → ETa, root zone soil moisture (RZSM), water productivity outputs become more relevant
-- Infrastructure project → select **Infrastructure** → LULC, flood risk, climate projections emphasised
-- Water project → select **Water** → surface water, precipitation, groundwater trend outputs
+- Agriculture project → select **Agriculture** theme → ETa, RZSM, and water productivity outputs become more relevant
+- Infrastructure project → select **Infrastructure** → LULC, flood risk, and climate projections are emphasised
+- Water project → select **Water** → surface water, precipitation, and groundwater trend outputs are highlighted
 
-Participants also explored using a **project boundary from GADM** (downloaded as GeoJSON, imported into eToolkit) rather than drawing one manually.
+Participants also explored using a project boundary downloaded from GADM (as GeoJSON, imported into eToolkit) rather than drawing one manually.
+
+!!! tip "Quality check before interpreting results"
+    Confirm the displayed boundary matches your project area, the time range shown is correct, and results panels are complete before drawing conclusions from the report.
 
 ---
 

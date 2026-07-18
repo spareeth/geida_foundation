@@ -6,7 +6,9 @@
 
 ---
 
-Welcome to the resource site for the GEIDA Foundation Level Certification Training. This site contains all session recordings, slide decks, exercises, and reference materials from the four-day training. It serves as both a training resource repository for Batch 1 participants and a learning resource for future batches.
+Welcome to the resource site for Batch 1 of the GEIDA Foundation Level Certification Training. This site contains all session recordings, slide decks, exercises, and reference materials from the four-day training. It serves as both a post-training reference for Batch 1 participants and a self-paced learning resource for future batches.
+
+The programme was developed by Expo City Dubai in partnership with the Islamic Development Bank.
 
 !!! info "How to use this site"
     - Follow the [Training Agenda](agenda.md) for the full programme overview.
@@ -32,24 +34,15 @@ Over four days, participants work with real web-based tools — no desktop softw
 
 ---
 
-## Training team
-
-| Role | Name | Organisation |
-|---|---|---|
-| **Trainer & Programme Lead** | Dr Sajid Pareeth | Expo City Dubai |
-| **IsDB Coordination** | Bakhodir Mirzaev, Bashir Kagere, Bassam Yahiya | IsDB |
-
----
-
 ## Programme at a glance
 
 | Day | Module | Focus |
 |---|---|---|
 | [Day 1](day-1/index.md) | Module 1 | Why EO matters · EO fundamentals · eToolkit intro & Exercise 1 |
-| [Day 2](day-2/index.md) | Modules 2 & 3 | Spatializing projects (PCN–PCR) · GEIDA opening · WaPOR |
+| [Day 2](day-2/index.md) | Modules 2 & 3 | Spatialising projects (PCN–PCR) · GEIDA opening · WaPOR |
 | [Day 3](day-3/index.md) | Module 4 | Spatial analysis · GeoLibre · use-case mapping · boundaries |
 | [Day 4](day-4/index.md) | Module 5 | Case studies · group presentations · closing & certificates |
 
 ---
 
-*This site is maintained by the IsDB GEIDA Programme. For questions, contact the training team.*
+*This site is maintained by the IsDB GEIDA Programme. For questions, contact the ESID/AWRD team.*

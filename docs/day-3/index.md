@@ -6,13 +6,13 @@
 
 ## Learning objectives
 
-By the end of Day 3, you will be able to:
+By the end of Day 3, participants will be able to:
 
-1. Apply spatial analysis operations (overlay, buffer, zonal statistics) to an IsDB project scenario
-2. Use GeoLibre to open spatial files, draw buffers, and explore data layers in the browser
-3. Download and use admin boundaries from GADM and HDX
-4. Complete the Minimum Project Data Submission Form for a real project
-5. Generate EO indicators for project monitoring using eToolkit or GeoLibre
+1. Apply basic spatial analysis operations — overlay, buffer, and zonal statistics — to an IsDB project scenario and describe what each operation reveals
+2. Use GeoLibre to open spatial files, apply a buffer, and explore data layers in the browser environment
+3. Download administrative boundary data from GADM or HDX, verify basic attributes, and import the file into a web GIS tool
+4. Complete the Minimum Project Data Submission Form for a known project, including a boundary file or coordinate pair and a relevant baseline year
+5. Select appropriate EO indicators for a project monitoring or evaluation scenario and state which project document each indicator would support
 
 ---
 
@@ -36,7 +36,7 @@ By the end of Day 3, you will be able to:
 
     Sessions 6 & 7 · 09:00–12:30
 
-    EO for PIASR/PCR/PPER · real IsDB project examples in satellite imagery · GeoLibre intro · use-case mapping · Minimum Project Data Submission Form
+    EO for PIASR/PCR/PPER · project examples in satellite imagery · GeoLibre intro · use-case mapping · Minimum Project Data Submission Form
 
 - :material-layers: **[Afternoon — GeoLibre & Exercise 3](afternoon.md)**
 

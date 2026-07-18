@@ -1,6 +1,6 @@
 # Video Tutorials
 
-Curated video tutorials on the tools and concepts covered in this training. All are free to watch.
+Curated video tutorials on the tools and concepts covered in this training. All are freely viewable.
 
 ---
 
@@ -52,7 +52,7 @@ EO applications in agricultural development — crop mapping, vegetation monitor
   </iframe>
 </div>
 
-EO for road condition monitoring, construction progress tracking, and infrastructure accessibility analysis.
+EO for road condition monitoring, construction progress assessment, and infrastructure accessibility analysis.
 
 ---
 
@@ -170,7 +170,7 @@ A comprehensive playlist covering Google Earth Web and Desktop: navigation, meas
 
 [:material-youtube: Watch the full playlist on YouTube](https://youtube.com/playlist?list=PLMiE4EPjUd_EifFQ63cOtUWXai82EMSSE)
 
-*Recommended for participants who want to deepen their Google Earth skills beyond what was covered on Day 1.*
+*Recommended for participants who want to develop their Google Earth skills beyond what was covered on Day 1.*
 
 ---
 
@@ -196,7 +196,7 @@ Introduction to Strata — risk screening and indicator exploration using EarthM
 
 ## QGIS — Desktop GIS (Self-Study)
 
-*For participants who want to go beyond web tools. QGIS is free, open-source desktop GIS software — the recommended next step after completing the Foundation course.*
+*For participants who wish to go beyond web tools. QGIS is free, open-source desktop GIS software — the recommended next step after completing the Foundation course.*
 
 ### Full Introductory Course on QGIS
 
@@ -210,6 +210,6 @@ Introduction to Strata — risk screening and indicator exploration using EarthM
   </iframe>
 </div>
 
-A comprehensive introductory course for those who want to learn desktop GIS. QGIS is free, open-source, and the natural next step for participants who want to go beyond web tools. **Not required for Foundation level.**
+A comprehensive introductory course for those who wish to develop desktop GIS skills. QGIS is free, open-source, and the natural progression from the web tools covered in Foundation training. **Not required for Foundation level.**
 
 Download QGIS: [qgis.org](https://qgis.org)

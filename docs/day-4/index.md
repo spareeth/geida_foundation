@@ -6,12 +6,12 @@
 
 ## Learning objectives
 
-By the end of Day 4, you will be able to:
+By the end of Day 4, participants will be able to:
 
-1. Apply the complete eToolkit workflow to a real IsDB project scenario
-2. Conduct a basic climate risk screening for an infrastructure, agriculture, or water project
-3. Present spatial evidence findings in plain language with a map
-4. Identify the next steps for GEIDA adoption in your own work
+1. Apply the eToolkit workflow to a project scenario, select relevant outputs, and summarise at least three EO findings in language appropriate for a project document
+2. Conduct a structured climate risk screening for a project area using EarthMap and the eToolkit climate projections layer, and link identified risks to design considerations
+3. Present spatial evidence findings in plain language supported by a map, following basic cartographic conventions
+4. Describe the next steps available for GEIDA adoption within their own operational context
 
 ---
 
@@ -25,7 +25,7 @@ By the end of Day 4, you will be able to:
 | 12:30–13:30 | *Lunch & Prayer Break* | |
 | 13:30–15:00 | Group presentations on case-study findings | Group presentations · discussion |
 | 15:00–15:30 | Wrap-up, lessons learned, way forward for GEIDA adoption | Wrap-up |
-| 15:30–15:45 | Concluding remarks — CCD/STI Manager | Remarks |
+| 15:30–15:45 | Concluding remarks — CCD/STI | Remarks |
 | 15:45–16:00 | Distribution of Foundation Level Certificates | |
 
 ---

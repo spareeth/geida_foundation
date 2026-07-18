@@ -20,53 +20,55 @@
 
 ---
 
-### Recap: web-based vs desktop GIS
+### Web-based vs desktop GIS
 
-A key point Dr Sajid emphasised on Day 3: this course uses **web-based tools exclusively** — no desktop GIS installation required. This is a deliberate choice for a diverse group of operations staff.
+This course uses web-based tools exclusively — no desktop GIS installation is required. This reflects the practical context of a diverse group of operations staff who need accessible, reproducible workflows.
 
-> "We are not trying to do traditional GIS training. What we are trying to do, and it is complex, is to make everything work in web-based tools to make it easy." — Dr Sajid Pareeth
-
-However, the limit is real: very heavy raster analysis (large national datasets, complex statistics) runs faster in desktop GIS. **QGIS** — free, open-source — is the recommended next step for anyone who wants to go further. See the [Video Tutorials](../resources/tutorials.md#qgis-self-study--desktop-gis) section.
+The limitation is real: computationally intensive raster analysis (large national datasets, complex statistics) runs more efficiently in desktop GIS. QGIS — free and open-source — is the recommended next step for participants who wish to go further. See the [Video Tutorials](../resources/tutorials.md#qgis-self-study--desktop-gis) section.
 
 ### EO for PIASR — Project Supervision
 
-- **Remote monitoring between missions** — detect vegetation change, surface water change, and construction progress from satellite imagery without a field visit
-- **Contractor verification** — satellite check on claimed physical outputs before disbursement
-- **Anomaly alerts** — flag when conditions deviate from expected trajectory
-- **Remote dashboards** — ETa, surface water extent, and LULC change viewed at any time
+- **Remote monitoring between field missions** — detect vegetation change, surface water change, and construction progress from satellite imagery between visits
+- **Physical output assessment** — satellite observations can provide an independent check on claimed construction progress prior to disbursement; findings should be cross-referenced with field reports
+- **Anomaly detection** — flag when conditions deviate from an expected trajectory
+- **Time-series dashboards** — ETa, surface water extent, and LULC change accessible at any time
 
 ### EO for PCR — Project Completion
 
-- **Objective before/after comparison** — use the same boundary and same EO indicators from the PAD baseline; compute change in ETa, irrigated area, surface water, LULC
-- **Spatial output documentation** — map the extent of works delivered
+- **Baseline vs end-line comparison** — use the same boundary and the same EO-derived indicators established in the PAD baseline; compute change in ETa, irrigated area, surface water extent, or LULC
+- **Spatial output documentation** — map the geographic extent of works delivered
+
+These satellite-derived comparisons provide one evidential input to the Project Completion Report (PCR). They complement engineering as-built records, supervision reports, and stakeholder assessments.
 
 ### EO for PPER — Post-completion Evaluation
 
-- **Long-term monitoring** — track vegetation, land cover, and water trends 3–5 years after completion at near-zero cost
-- **Sustainability verification** — confirm infrastructure and landscape changes have persisted
-- **Counterfactual analysis** — the PCN/PAD baseline becomes the reference point for before/after comparison in independent evaluation
+- **Long-term monitoring** — track vegetation, land cover, and water trends three to five years after completion using consistent satellite-derived indicators
+- **Sustainability assessment** — confirm infrastructure and landscape changes have been maintained
+- **Counterfactual analysis** — where a pre-project baseline was established at PCN or PAD stage, satellite observations can support a structured before/after comparison in independent evaluation
 
-### A real IsDB project in satellite imagery
+### A project in satellite imagery — illustrative example
 
-In Session 7 (transcript), a group examined an IsDB school project built 2013–2016 using GeoLibre and satellite imagery:
+An illustrative analysis examined an IsDB school project built during 2013–2016 using GeoLibre and satellite imagery:
 
-- Building construction was visible in satellite images during 2013–2016
-- 10 years after completion, the school is intact — visible in current imagery
-- Analysis: 1 km buffer drawn around the school; explored flood risk, land use, and population within the buffer
+- Building construction was discernible in satellite images taken during the construction period
+- Ten years after completion, the structure remained visible in current imagery
+- A 1 km buffer around the school was drawn; land use, flood risk, and population within the buffer were explored
+
+This example illustrates how satellite imagery can support long-term outcome monitoring when a spatial baseline was recorded at project identification. The satellite observations indicate physical presence and broad land-use context — they do not replace operational monitoring, beneficiary surveys, or educational outcome data.
 
 !!! question "Think about this"
-    If you have this kind of satellite analysis for a school or road project — which part of the project cycle does it contribute to? And what specific map or figure would you put in that project document?
+    For a project of this kind — which part of the project cycle does this type of satellite analysis support? And what specific map or figure would be placed in each project document?
 
-    *Answers from participants: PCN/PAD for siting decisions; PIASR for progress verification; PCR/PPER for outcome verification and sustainability.*
+    *Illustrative answers: PCN/PAD for siting decisions and environmental context; PIASR for construction progress assessment; PCR and PPER for physical sustainability verification.*
 
 ### Key spatial analysis operations
 
 | Operation | What it does | Example |
 |---|---|---|
-| **Overlay** | Combine two or more map layers | Project sites overlaid on a flood-risk layer |
-| **Buffer** | Zone of set distance around a feature | 1 km buffer around a road or school |
-| **Zonal statistics** | Summarise values within a zone | Average ETa within a project boundary |
-| **Site suitability** | Combine factors to find best locations | Slope + land use + soil for an irrigation scheme |
+| **Overlay** | Combine two or more map layers to examine intersections | Project sites overlaid on a flood-risk layer |
+| **Buffer** | Generate a zone of defined distance around a feature | 1 km buffer around a road or school |
+| **Zonal statistics** | Summarise values within a defined zone | Mean ETa within a project boundary |
+| **Site suitability** | Combine multiple factors to identify preferred locations | Slope, land use, and soil data combined for an irrigation scheme |
 
 ---
 
@@ -89,11 +91,11 @@ In Session 7 (transcript), a group examined an IsDB school project built 2013–
 Participants identified specific EO applications relevant to their own projects and sectors. The form captures:
 
 - Which project phase the EO application relates to
-- Which indicator is needed (ETa, RZSM, LULC, population, flood risk…)
+- Which indicator is needed (ETa, RZSM, LULC, population, flood risk, and others)
 - Which project document will use the output
 - Which tool can generate it (eToolkit, WaPOR, GeoLibre, EarthMap)
 
-This input feeds into the development of the GEIDA platform — informing which automated outputs and dashboards to build next.
+This input feeds into the development of the GEIDA platform — informing which automated outputs and dashboards to prioritise.
 
 ### Minimum Project Data Submission Form
 
@@ -101,17 +103,17 @@ The GEIDA programme requires a minimum spatial dataset for every project onboard
 
 | Field | Description |
 |---|---|
-| Project name & code | As in IsDB project database |
+| Project name & code | As recorded in the IsDB project database |
 | Administrative area | Country + region + district |
-| Sector / team | Determines which EO indicators are relevant |
-| Project stage | Ideally Identification or Preparation — the earlier, the better |
+| Sector / team | Determines which EO indicators are most relevant |
+| Project stage | Identification or Preparation is preferred — the earlier a project is registered spatially, the more useful the baseline |
 | Boundary / corridor / point | KML, GeoJSON, or coordinate pair |
 | Area of influence | Broader geographic zone affected by the project |
 | Baseline year | The year the baseline should reference |
-| Relevant indicators | ETa, RZSM, LULC, water, climate, population… |
+| Relevant indicators | ETa, RZSM, LULC, water, climate, population, and others as applicable |
 
-!!! tip "Start at PCN — keep the thread"
-    The key insight: from PCN to PPER there can be a gap of 10+ years. If you don't register the project boundary and baseline in a spatial database at the start, the connection between identification and evaluation is lost forever. The Minimum Project Data Submission Form starts that process.
+!!! tip "Start at PCN — maintain the spatial thread"
+    From PCN to PPER there can be a gap of ten or more years. Registering the project boundary and baseline in a spatial database at identification stage preserves the ability to make a before/after comparison at evaluation. The Minimum Project Data Submission Form is the starting point for that process.
 
 ---
 

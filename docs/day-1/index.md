@@ -6,13 +6,13 @@
 
 ## Learning objectives
 
-By the end of Day 1, you will be able to:
+By the end of Day 1, participants will be able to:
 
-1. Explain why standardised spatial evidence is missing from current IsDB practice — and why it matters
-2. Define Earth Observation and Geoinformatics; distinguish optical, radar, and nighttime-lights data
-3. Describe point, line, and polygon data; explain spatial, temporal, and spectral resolution
-4. Map at least one EO contribution to each stage of the IsDB project cycle
-5. Generate an automated EO report in the eToolkit for a chosen project area
+1. Describe why spatially referenced evidence is absent from many IsDB appraisal and completion documents, and explain the operational consequences of that absence
+2. Define Earth Observation (EO) and geoinformatics; distinguish optical, radar, and nighttime-light data types and their respective limitations
+3. Identify point, line, and polygon data types; explain spatial, temporal, and spectral resolution in practical terms
+4. Name at least one EO-derived indicator relevant to each stage of the IsDB project cycle
+5. Generate an automated EO analysis report in the eToolkit for a defined project area and describe one finding from that report
 
 ---
 
@@ -20,7 +20,7 @@ By the end of Day 1, you will be able to:
 
 | Time (Jeddah) | Session | Format |
 |---|---|---|
-| 09:00–09:30 | Welcoming remarks — ESID/AWRD Manager | Remarks |
+| 09:00–09:30 | Welcoming remarks — ESID/AWRD | Remarks |
 | 09:30–10:30 | Session 1 — Why Geoinformatics Matters | Lecture · videos · quiz |
 | 10:30–11:00 | *Tea & Coffee Break* | |
 | 11:00–12:30 | Session 2 — Fundamentals of EO & Geoinformatics | Lecture · discussion |
@@ -38,7 +38,7 @@ By the end of Day 1, you will be able to:
 
     Sessions 1 & 2 · 09:30–12:30
 
-    The spatial evidence gap in IsDB · EO basics (optical, radar, nighttime lights) · spatializing a project · open-access data
+    The spatial evidence gap in IsDB · EO basics (optical, radar, nighttime lights) · spatialising a project · open-access data
 
 - :material-tools: **[Afternoon — Mainstreaming EO & Exercise 1](afternoon.md)**
 
