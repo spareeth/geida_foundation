@@ -1,10 +1,14 @@
 # Resources
 
-Supporting materials, tools, and data sources for the GEIDA Foundation Training.
+Supporting materials, tools, and data sources for the GEIDA Staff Certification Programme.
 
 ---
 
 <div class="grid cards" markdown>
+
+- :material-book-open-variant: **[Preparatory Materials — Batch 2](preparatory-batch-2.md)**
+
+    Part 1 self-paced materials · orientation · EO fundamentals · the tools · project data template
 
 - :material-database: **[Data Sources](data-sources.md)**
 

@@ -1,47 +1,65 @@
-# GEIDA Foundation Level Certification — Batch 1
+# GEIDA Staff Certification Programme
 
-**IsDB Geoinformatics Data Platform (GEIDA) · Staff Certification Programme**
-
-6–9 July 2026 · Hybrid: IsDB HQ Jeddah + Online
+**IsDB Geoinformatics Data Platform (GEIDA) · Training & Knowledge Hub**
 
 ---
 
-Welcome to the resource site for Batch 1 of the GEIDA Foundation Level Certification Training. This site contains all session recordings, slide decks, exercises, and reference materials from the four-day training. It serves as both a post-training reference for Batch 1 participants and a self-paced learning resource for future batches.
+Welcome to the resource site for the GEIDA Staff Certification Programme. This site holds the session recordings, slide decks, exercises and reference materials from every GEIDA training event — for participants to return to after a session, and for colleagues learning at their own pace.
 
-The programme was developed by Expo City Dubai in partnership with the Islamic Development Bank.
+The programme is developed by Terra, Expo City Dubai, in partnership with the Islamic Development Bank.
 
 !!! info "How to use this site"
-    - Follow the [Training Agenda](agenda.md) for the full programme overview.
-    - Navigate day by day using the left sidebar — each day has a morning and afternoon page.
-    - Each session page contains the **recording** (YouTube embed), **slide decks** (PDF download), **key concepts**, and **exercise instructions**.
-    - The [Resources](resources/index.md) section has links to all tools, data sources, and tutorial videos.
+    - Each training event has its own section in the left sidebar, with an agenda page and a page per session.
+    - Every session page carries the **recording**, the **slide decks**, and the **key concepts** covered.
+    - The [Resources](resources/index.md) section holds preparatory materials, tools, data sources and tutorials that apply across all batches.
 
 ---
 
-## What this training covers
+## Training events
+
+<div class="grid cards" markdown>
+
+- :material-school: **[Foundation Level — Batch 1](batch-1/index.md)**
+
+    6–9 July 2026 · Hybrid: IsDB HQ Jeddah + Online
+
+    Four-day foundation course · EO fundamentals · spatialising projects · eToolkit, WaPOR, GeoLibre, EarthMap
+
+- :material-school: **[Foundation Level — Batch 2](batch-2/index.md)**
+
+    September–October 2026 · Hybrid: IsDB HQ Jeddah + Online
+
+    Three-part course delivered alongside the Regional Hub Operations Boot Camp · in-person day plus online practical follow-up
+
+- :material-presentation: **[Executive Briefing — Heads of Department](executive-session/index.md)**
+
+    9 September 2026 · IsDB HQ Jeddah + Online
+
+    GEIDA for IsDB leadership · what it delivers across the project cycle · institutional pathway
+
+- :material-calendar-clock: **[Foundation Level — Batch 3](batch-3/index.md)**
+
+    Planned for November 2026 · GPP Knowledge Week
+
+    Third cohort of the Foundation Level course · details to follow
+
+</div>
+
+---
+
+## What the Foundation course covers
 
 The GEIDA Foundation course builds staff capacity to integrate Earth Observation (EO) and geoinformatics into IsDB project documents — from the Project Concept Note (PCN) through to the Project Performance Evaluation Report (PPER).
 
-Over four days, participants work with real web-based tools — no desktop software required:
+Participants work with web-based tools only — no desktop software required:
 
-| Tool | Purpose | Used on |
-|---|---|---|
-| [eToolkit](https://etoolkit.terrawatch.net) | Automated EO report generation | Days 1–4 |
-| [Google Earth Web](https://earth.google.com/web) | Area definition, KML export | Day 1 |
-| [FAO WaPOR](https://data.apps.fao.org/wapor/) | High-resolution agriculture & water data | Day 2 |
-| [GeoLibre](https://viewer.geolibre.app) | Web-based spatial analysis | Day 3 |
-| [EarthMap](https://earthmap.org) | Risk screening, population | Day 4 |
-
----
-
-## Programme at a glance
-
-| Day | Module | Focus |
-|---|---|---|
-| [Day 1](day-1/index.md) | Module 1 | Why EO matters · EO fundamentals · eToolkit intro & Exercise 1 |
-| [Day 2](day-2/index.md) | Modules 2 & 3 | Spatialising projects (PCN–PCR) · GEIDA opening · WaPOR |
-| [Day 3](day-3/index.md) | Module 4 | Spatial analysis · GeoLibre · use-case mapping · boundaries |
-| [Day 4](day-4/index.md) | Module 5 | Case studies · group presentations · closing & certificates |
+| Tool | Purpose |
+|---|---|
+| [eToolkit](https://etoolkit.terrawatch.net) | Automated EO report generation |
+| [Google Earth Web](https://earth.google.com/web) | Area definition, KML export |
+| [FAO WaPOR](https://data.apps.fao.org/wapor/) | High-resolution agriculture & water data |
+| [GeoLibre](https://viewer.geolibre.app) | Web-based spatial analysis |
+| [EarthMap](https://earthmap.org) | Risk screening, population |
 
 ---
 

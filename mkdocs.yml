@@ -1,11 +1,11 @@
-site_name: GEIDA Foundation Training — Batch 1
+site_name: GEIDA Training — IsDB Staff Certification Programme
 site_url: https://geida-edu.terrawatch.net
 site_description: >-
-  IsDB GEIDA Foundation Level Certification Training, 6–9 July 2026.
-  Hybrid: IsDB HQ Jeddah + Online. Session recordings, slide decks, and
-  resources for self-paced learning.
+  IsDB GEIDA Staff Certification Programme. Session recordings, slide decks
+  and resources from the Foundation Level batches and the Executive Briefing,
+  for reference and self-paced learning.
 site_author: IsDB GEIDA Programme
-copyright: "IsDB GEIDA Foundation Training · Batch 1 · July 2026, Developed by Terra, Expo City Dubai"
+copyright: "IsDB GEIDA Staff Certification Programme · Developed by Terra, Expo City Dubai"
 
 theme:
   name: material
@@ -24,8 +24,6 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - navigation.sections
-    - navigation.expand
     - navigation.path
     - navigation.top
     - navigation.indexes
@@ -59,30 +57,46 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search:
 
 nav:
   - Home: index.md
-  - Training Agenda: agenda.md
-  - Day 1 — Module 1:
-    - day-1/index.md
-    - Morning — Why EO Matters & Fundamentals: day-1/morning.md
-    - Afternoon — Mainstreaming EO & Exercise 1: day-1/afternoon.md
-  - Day 2 — Modules 2 & 3:
-    - day-2/index.md
-    - Morning — Spatializing IsDB Projects (PCN–PCR): day-2/morning.md
-    - Afternoon — GEIDA Opening & WaPOR: day-2/afternoon.md
-  - Day 3 — Module 4:
-    - day-3/index.md
-    - Morning — Spatial Analysis & Use Cases: day-3/morning.md
-    - Afternoon — GeoLibre & Case Studies: day-3/afternoon.md
-  - Day 4 — Module 5:
-    - day-4/index.md
-    - Morning — Case Studies 1 & 2: day-4/morning.md
-    - Afternoon — Group Presentations & Closing: day-4/afternoon.md
+  - Foundation Level — Batch 1:
+    - batch-1/index.md
+    - Training Agenda: agenda.md
+    - Day 1 — Module 1:
+      - day-1/index.md
+      - Morning — Why EO Matters & Fundamentals: day-1/morning.md
+      - Afternoon — Mainstreaming EO & Exercise 1: day-1/afternoon.md
+    - Day 2 — Modules 2 & 3:
+      - day-2/index.md
+      - Morning — Spatializing IsDB Projects (PCN–PCR): day-2/morning.md
+      - Afternoon — GEIDA Opening & WaPOR: day-2/afternoon.md
+    - Day 3 — Module 4:
+      - day-3/index.md
+      - Morning — Spatial Analysis & Use Cases: day-3/morning.md
+      - Afternoon — GeoLibre & Case Studies: day-3/afternoon.md
+    - Day 4 — Module 5:
+      - day-4/index.md
+      - Morning — Case Studies 1 & 2: day-4/morning.md
+      - Afternoon — Group Presentations & Closing: day-4/afternoon.md
+  - Foundation Level — Batch 2:
+    - batch-2/index.md
+    - In-person Day Agenda: batch-2/agenda.md
+    - Morning — EO & Geoinformatics Fundamentals: batch-2/morning.md
+    - Afternoon — Spatial Analysis & the eToolkit: batch-2/afternoon.md
+    - Part 3 — Online Practical Follow-up: batch-2/part-3.md
+  - Executive Briefing — HoDs:
+    - executive-session/index.md
+  - Foundation Level — Batch 3:
+    - batch-3/index.md
   - Resources:
     - resources/index.md
+    - Preparatory Materials — Batch 2: resources/preparatory-batch-2.md
     - Data Sources: resources/data-sources.md
     - Online GIS Tools: resources/tools.md
     - Video Tutorials: resources/tutorials.md

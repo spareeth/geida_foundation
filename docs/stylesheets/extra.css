@@ -1,0 +1,49 @@
+/* ==========================================================================
+   GEIDA Training site — custom styles
+   ========================================================================== */
+
+/* Top-level sidebar items (Home, the training events, Resources, Glossary)
+   are set in bold and in the primary colour, so the main sections of the
+   site read as distinct from the pages nested beneath them. */
+
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link {
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+  letter-spacing: -0.005em;
+}
+
+/* Breathing room between top-level items */
+.md-nav--primary > .md-nav__list > .md-nav__item {
+  margin-top: 0.4rem;
+}
+
+/* Hover and active states keep the accent colour */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link:hover,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link:hover,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link--active,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+}
+
+/* Dark mode — the primary blue is too dark against the slate background,
+   so use a lighter tone for contrast */
+[data-md-color-scheme="slate"] .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+[data-md-color-scheme="slate"] .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__container > .md-nav__link {
+  color: #82b1ff;
+}
+
+/* Responsive video embeds */
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  margin: 1.2rem 0;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  border: 0;
+  border-radius: 0.2rem;
+}
