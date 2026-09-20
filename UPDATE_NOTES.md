@@ -17,7 +17,7 @@ The site moves from a single Batch 1 resource site to a programme hub covering a
 | `docs/batch-2/agenda.md` | In-person day agenda, 10 September |
 | `docs/batch-2/morning.md` | Morning session — recording, decks, content |
 | `docs/batch-2/afternoon.md` | Afternoon session — recording, deck, content |
-| `docs/batch-2/part-3.md` | Part 3 online follow-up — dates, structure, preparation |
+| `docs/batch-2/part-3.md` | Part 3 online follow-up — listed first in the Batch 2 section, with a "coming next" callout and the Teams joining link |
 | `docs/executive-session/index.md` | Executive Briefing, 9 September — recording, deck, outline |
 | `docs/batch-3/index.md` | Batch 3 placeholder |
 | `docs/resources/preparatory-batch-2.md` | Part 1 preparatory materials |

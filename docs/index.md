@@ -31,6 +31,8 @@ The programme is developed by Terra, Expo City Dubai, in partnership with the Is
 
     Three-part course delivered alongside the Regional Hub Operations Boot Camp · in-person day plus online practical follow-up
 
+    **Part 3 online sessions: 29 September, 1 & 7 October — in progress**
+
 - :material-presentation: **[Executive Briefing — Heads of Department](executive-session/index.md)**
 
     9 September 2026 · IsDB HQ Jeddah + Online

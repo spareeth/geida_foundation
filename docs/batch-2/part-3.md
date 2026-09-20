@@ -6,8 +6,14 @@
 
 Part 3 completes the Batch 2 Foundation Level programme. Across three guided online sessions of approximately four hours each, participants develop an applied GEIDA case using their own ongoing or pipeline project, with trainer support throughout.
 
-!!! info "Joining"
-    A single Microsoft Teams link covers all three sessions. The link and calendar invitation are circulated by email to registered participants.
+!!! tip "Coming next — Session 1 on Tuesday 29 September"
+    Part 3 is the active stage of Batch 2. The three sessions run on **29 September, 1 October and 7 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
+
+    A single Microsoft Teams link covers all three sessions.
+
+    [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
+
+    A calendar invitation for the series is circulated by email to registered participants.
 
 ---
 
