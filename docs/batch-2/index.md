@@ -11,9 +11,9 @@ Batch 2 is the second cohort of the GEIDA Foundation Level Certification Trainin
 !!! info "How Batch 2 is structured"
     **Part 1 — Preparatory.** Self-paced materials issued before the in-person day, covering the fundamentals and the tools. Available in [Resources](../resources/preparatory-batch-2.md).
 
-    **Part 2 — In-person day.** A full day at IsDB HQ Jeddah on 10 September 2026, working with participants' own ongoing and pipeline projects. Certificates were presented at the close of the Boot Camp.
+    **Part 2 — In-person day.** A full day at IsDB HQ Jeddah on 10 September 2026, covering the project cycle from quality at entry through implementation monitoring to completion and evaluation, working with participants' own ongoing and pipeline projects.
 
-    **Part 3 — Online practical follow-up.** Three guided online sessions in which participants develop an applied GEIDA case using one of their own projects, concluding with a short case presentation.
+    **Part 3 — Online practical follow-up.** Three guided online sessions of approximately four hours each, in which participants develop an applied GEIDA case using one of their own projects, concluding with a case presentation and completion of the Foundation Level requirements.
 
 ---
 
@@ -23,7 +23,7 @@ Batch 2 is the second cohort of the GEIDA Foundation Level Certification Trainin
 |---|---|---|
 | Part 1 — Preparatory | Before 10 September | [Self-paced materials](../resources/preparatory-batch-2.md): EO fundamentals, tools, project data template |
 | Part 2 — [In-person day](agenda.md) | 10 September 2026 | [Morning](morning.md): EO and geoinformatics fundamentals · [Afternoon](afternoon.md): spatial analysis and the eToolkit |
-| Part 3 — [Online follow-up](part-3.md) | 24 & 28 September, 1 October 2026 | Project mapping and baseline · climate and risk screening · monitoring, indicators and case presentations |
+| Part 3 — [Online follow-up](part-3.md) | 29 September, 1 & 7 October 2026 | Project mapping, baseline and risk screening · implementation monitoring and results indicators · case presentations, peer learning and certification |
 
 ---
 
