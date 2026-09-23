@@ -9,7 +9,7 @@ September–October 2026 · Hybrid: IsDB HQ Jeddah + Online
 Batch 2 is the second cohort of the GEIDA Foundation Level Certification Training. It was delivered alongside the IsDB Operations Boot Camp while colleagues from the Regional Hubs were gathered at Headquarters, and runs in three parts.
 
 !!! tip "Coming next — Part 3 begins Tuesday 29 September"
-    The three online practical sessions run on **29 September, 1 October and 7 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah. See [Part 3 — Online Practical Follow-up](part-3.md) for the agenda and preparation.
+    The three online practical sessions run on **29 September, 8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah. See [Part 3 — Online Practical Follow-up](part-3.md) for the agenda and preparation.
 
     [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
 
@@ -28,7 +28,7 @@ Batch 2 is the second cohort of the GEIDA Foundation Level Certification Trainin
 |---|---|---|
 | Part 1 — Preparatory | Before 10 September | [Self-paced materials](../resources/preparatory-batch-2.md): EO fundamentals, tools, project data template |
 | Part 2 — [In-person day](agenda.md) | 10 September 2026 | [Morning](morning.md): EO and geoinformatics fundamentals · [Afternoon](afternoon.md): spatial analysis and the eToolkit |
-| Part 3 — [Online follow-up](part-3.md) | 29 September, 1 & 7 October 2026 | Project mapping, baseline and risk screening · implementation monitoring and results indicators · case presentations, peer learning and certification |
+| Part 3 — [Online follow-up](part-3.md) | 29 September, 8 October and 13 October 2026 | Project mapping, baseline and risk screening · implementation monitoring and results indicators · case presentations, peer learning and certification |
 
 ---
 

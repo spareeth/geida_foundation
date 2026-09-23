@@ -1,13 +1,13 @@
 # Part 3 — Online Practical Follow-up
 
-**29 September, 1 & 7 October 2026 · Online · 12:00–16:00 Dubai / 11:00–15:00 Jeddah**
+**29 September, 8 October and 13 October 2026 · Online · 12:00–16:00 Dubai / 11:00–15:00 Jeddah**
 
 ---
 
 Part 3 completes the Batch 2 Foundation Level programme. Across three guided online sessions of approximately four hours each, participants develop an applied GEIDA case using their own ongoing or pipeline project, with trainer support throughout.
 
 !!! tip "Coming next — Session 1 on Tuesday 29 September"
-    Part 3 is the active stage of Batch 2. The three sessions run on **29 September, 1 October and 7 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
+    Part 3 is the active stage of Batch 2. The three sessions run on **29 September, 8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
 
     A single Microsoft Teams link covers all three sessions.
 
@@ -22,8 +22,8 @@ Part 3 completes the Batch 2 Foundation Level programme. Across three guided onl
 | Session | Date | Theme |
 |---|---|---|
 | Session 1 | Tuesday 29 September 2026 | Project mapping, baseline and risk screening |
-| Session 2 | Thursday 1 October 2026 | Implementation monitoring and results indicators |
-| Session 3 | Wednesday 7 October 2026 | Case presentations, peer learning and certification |
+| Session 2 | Thursday 8 October 2026 | Implementation monitoring and results indicators |
+| Session 3 | Tuesday 13 October 2026 | Case presentations, peer learning and certification |
 
 ---
 
@@ -68,7 +68,7 @@ Session 3 follows the same shape, with the later blocks given over to case prese
 
 **Expected output:** initial project map and EO / geospatial baseline.
 
-### Session 2 — Implementation monitoring and results indicators *(1 October)*
+### Session 2 — Implementation monitoring and results indicators *(8 October)*
 
 - Identify EO / geospatial indicators linked to the Results Framework
 - Explore time-series imagery and change analysis
@@ -78,7 +78,7 @@ Session 3 follows the same shape, with the later blocks given over to case prese
 
 **Expected output:** project-specific monitoring approach and proposed spatial indicators.
 
-### Session 3 — Case presentations, peer learning and certification *(7 October)*
+### Session 3 — Case presentations, peer learning and certification *(13 October)*
 
 - Present project location and baseline
 - Explain the operational issue addressed
@@ -125,7 +125,7 @@ Before Session 1, confirm the single ongoing or pipeline IsDB project you will u
 - The Results Framework and its indicators
 - Project start and expected completion dates
 
-If you have not already done so, submit your project details through the form below before Session 1.
+Participants are grouped at Regional Hub level for this training, so kindly coordinate within your Hub team when selecting the project. If you have not already done so, submit your project details through the form below before Session 1.
 
 [:material-form-select: **Project Data Submission Form**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=CA8x2HQVG0eId0PFAyJbGrgFJg6wpgZJskdpEwAADllUNU9ZNzVJSFUwUFJDSkJINTFRTjYxT0hZTy4u){ .md-button }
 
