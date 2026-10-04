@@ -86,17 +86,18 @@ nav:
       - Afternoon — Group Presentations & Closing: day-4/afternoon.md
   - Foundation Level — Batch 2:
     - batch-2/index.md
-    - Part 3 — Online Follow-up (next sessions): batch-2/part-3.md
-    - In-person Day Agenda: batch-2/agenda.md
-    - Morning — EO & Geoinformatics Fundamentals: batch-2/morning.md
-    - Afternoon — Spatial Analysis & the eToolkit: batch-2/afternoon.md
+    - Part 1 — Preparatory Materials: resources/preparatory-batch-2.md
+    - Part 2 — In-person Day, 10 September:
+      - batch-2/agenda.md
+      - Morning — EO & Geoinformatics Fundamentals: batch-2/morning.md
+      - Afternoon — Spatial Analysis & the eToolkit: batch-2/afternoon.md
+    - Part 3 — Online Practical Follow-up: batch-2/part-3.md
   - Executive Briefing — HoDs:
     - executive-session/index.md
   - Foundation Level — Batch 3:
     - batch-3/index.md
   - Resources:
     - resources/index.md
-    - Preparatory Materials — Batch 2: resources/preparatory-batch-2.md
     - Data Sources: resources/data-sources.md
     - Online GIS Tools: resources/tools.md
     - Video Tutorials: resources/tutorials.md
