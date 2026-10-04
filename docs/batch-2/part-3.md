@@ -6,8 +6,8 @@
 
 Part 3 completes the Batch 2 Foundation Level programme. Across three guided online sessions of approximately four hours each, participants develop an applied GEIDA case using their own ongoing or pipeline project, with trainer support throughout.
 
-!!! tip "Coming next — Session 1 on Tuesday 29 September"
-    Part 3 is the active stage of Batch 2. The three sessions run on **29 September, 8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
+!!! tip "Coming next — Session 2 on Thursday 8 October"
+    Session 1 was delivered on 29 September; the recording is published below. The remaining sessions run on **8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
 
     A single Microsoft Teams link covers all three sessions.
 
@@ -24,6 +24,41 @@ Part 3 completes the Batch 2 Foundation Level programme. Across three guided onl
 | Session 1 | Tuesday 29 September 2026 | Project mapping, baseline and risk screening |
 | Session 2 | Thursday 8 October 2026 | Implementation monitoring and results indicators |
 | Session 3 | Tuesday 13 October 2026 | Case presentations, peer learning and certification |
+
+---
+
+## Session recordings
+
+### Session 1 — 29 September: Project mapping, baseline and risk screening
+
+The session was recorded in two parts.
+
+**Part 1** — recap of the GEIDA framework, spatialising a project, the tools, and the worked case: locating the project area and building the boundary.
+
+<div class="video-wrapper">
+  <iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/NqHpmxUdDXI"
+    title="GEIDA Batch 2 — Part 3, Session 1, Part 1 — 29 September 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+**Part 2** — the baseline in the eToolkit, climate and risk screening, applied work on participants' own projects, and the project data submission.
+
+<div class="video-wrapper">
+  <iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/lAXQ_KKSCwg"
+    title="GEIDA Batch 2 — Part 3, Session 1, Part 2 — 29 September 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+!!! note "Recordings for Sessions 2 and 3"
+    Published on this page after each session.
 
 ---
 
@@ -135,4 +170,4 @@ Continue to use the [eToolkit](https://etoolkit.terrawatch.net) credentials issu
 
 ---
 
-*Session recordings and materials will be published on this page as the sessions are delivered.*
+*Materials from each session are published on this page as the sessions are delivered.*
