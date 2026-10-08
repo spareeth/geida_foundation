@@ -62,6 +62,84 @@ The session was recorded in two parts.
 
 ---
 
+## Session 2 exercises — Moroto district, Uganda
+
+The Session 2 exercises run in GeoLibre in your browser. The heavy processing runs on the GEIDA course server, so nothing is installed on your laptop.
+
+!!! info "Access code"
+    The access code for the course server is issued by your trainer. It is typed into the plugin only, and is not published on this site.
+
+### Setup, about ten minutes
+
+| Step | What to do |
+|---|---|
+| 1. Open GeoLibre | [web.geolibre.app](https://web.geolibre.app) — no account needed |
+| 2. Install the plugin | **Settings › Manage Plugins › Settings**, paste the manifest URL under **Manifest URLs** and click **Add**. Version 0.4.0 or later |
+| 3. Turn it on | **Plugins › Installed › Remote Processing**, then **Remote Processing › Server connection and files** |
+| 4. Connect | Enter the server address and your access code, then **Save and connect**. The status turns green |
+
+The server address, the manifest URL and the download are all on the server's landing page:
+
+[:material-server-network: **Course server and setup**](https://geolibre.terrawatch.net/){ .md-button .md-button--primary }
+[:material-download: **Moroto_course_data.zip**](https://geolibre.terrawatch.net/downloads/Moroto_course_data.zip){ .md-button }
+[:material-book-open-variant: **Step-by-step guide**](https://geolibre.terrawatch.net/guide){ .md-button }
+
+Unzip the course data on your laptop and open the vector files with **Add Data › Vector Layer**. The rasters are already on the server, under **Data › Shared course data**.
+
+!!! warning "Untick Run locally (WASM)"
+    In every Whitebox tool dialog, untick **Run locally (WASM)** at the top right. If it stays ticked the tool runs on your laptop and cannot read the server files, and every later step fails.
+
+### The four exercises
+
+| Part | Question | Main tools |
+|---|---|---|
+| 0 | Where in Uganda should a programme focus? | Select by Expression, Export Selected Features |
+| 1 | Who lives more than 5 km from a school? | Vector Points To Raster, Euclidean Distance, Reclass, Multiply, Zonal statistics |
+| 2 | Who lives far from a health centre, and from a proper one? | The same chain, with a filter on facility level |
+| 3 | What would a Moroto–Tapac road upgrade cross? | Buffer, Slope, Reclass, Zonal statistics, Select by Location |
+| 4 | How do I share a result as a map? | Style, Print Layout, logo on a printed map |
+
+The projects used in the exercises are hypothetical. The data and the places are real.
+
+### Applying it to your own project
+
+Each exercise has an equivalent for your own operation.
+
+| From Moroto | The same question for your project |
+|---|---|
+| Part 0 | Which district or region does your project cover, and how does it compare with its neighbours? |
+| Part 1 | Who does your project reach, and who is left beyond a reasonable distance of it? |
+| Part 2 | Does the service your project provides meet the standard, not just exist on a map? |
+| Part 3 | What does your corridor, command area or site cross, and who lives in it? |
+| Part 4 | One map your task team can put in the PCN, PAD or supervision report |
+
+For the project locations submitted through the Project Data Submission Form, the trainers will prepare the equivalent population, land cover and terrain layers for your area.
+
+### What to submit
+
+The exercises are completed after the session.
+
+1. The four parts on Moroto, whichever were not finished during the session
+2. At least one of the four questions applied to your own project area
+3. One map exported from the Print Layout, with title, legend, scale, north arrow, source and date
+4. Your five slides for Session 3
+
+Share your results in the **Batch 2 Teams channel** or by email to the trainers, **by Sunday 11 October**, so that they can be reviewed before Session 3.
+
+### If something fails
+
+| Symptom | What to check |
+|---|---|
+| The status does not turn green | The access code first, then the server address |
+| A tool fails or reads nothing | **Run locally (WASM)** is still ticked |
+| A raster input is rejected | The drop-down is on Layer instead of Path. Use **Copy path** in the Data tab |
+| Multiply or Zonal statistics fails | The two rasters are on different grids. Rebuild from the population raster as the base |
+| A selection returns unexpected counts | Missing values: some subcounties have no census figures and cannot be evaluated |
+
+Post the problem in the Teams channel with a screenshot of the tool dialog.
+
+---
+
 ## Cross-sector case studies
 
 Each session uses sector-based case studies to demonstrate how EO and geospatial approaches apply across the IsDB portfolio, drawing on Agriculture, Water, Health, Education, Energy and Transport.
@@ -103,15 +181,19 @@ Session 3 follows the same shape, with the later blocks given over to case prese
 
 **Expected output:** initial project map and EO / geospatial baseline.
 
-### Session 2 — Implementation monitoring and results indicators *(8 October)*
+### Session 2 — Site identification and site assessment *(8 October)*
 
+Hands-on work in GeoLibre, using a real district and real data: the Uganda 2024 census, OpenStreetMap facilities, WorldPop, ESA WorldCover and the Copernicus DEM.
+
+- Narrow national data to one district using census attributes
+- Measure access to schools and to health facilities, weighted by population
+- Screen a road corridor for terrain, land cover and population
+- Produce a styled, sourced map for a report
 - Identify EO / geospatial indicators linked to the Results Framework
-- Explore time-series imagery and change analysis
-- Consider applications for PIASR and supervision
-- Identify baseline-to-end-line indicators for PCR / PPER
-- Refine the project use case with trainer support
 
-**Expected output:** project-specific monitoring approach and proposed spatial indicators.
+**Expected output:** a site assessment for your own project area, and proposed spatial indicators.
+
+See [Session 2 exercises](#session-2-exercises-moroto-district-uganda) below for the setup, the data and the step-by-step guide.
 
 ### Session 3 — Case presentations, peer learning and certification *(13 October)*
 
