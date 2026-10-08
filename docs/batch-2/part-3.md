@@ -67,18 +67,28 @@ The session was recorded in two parts.
 The Session 2 exercises run in GeoLibre in your browser. The heavy processing runs on the GEIDA course server, so nothing is installed on your laptop.
 
 !!! info "Access code"
-    The access code for the course server is issued by your trainer. It is typed into the plugin only, and is not published on this site.
+    The access code is shared during the session. It is typed into the plugin only, and is not published on this site. If you have missed it, contact the trainers.
 
 ### Setup, about ten minutes
 
 | Step | What to do |
 |---|---|
 | 1. Open GeoLibre | [web.geolibre.app](https://web.geolibre.app) — no account needed |
-| 2. Install the plugin | **Settings › Manage Plugins › Settings**, paste the manifest URL under **Manifest URLs** and click **Add**. Version 0.4.0 or later |
+| 2. Install the plugin | **Settings › Manage Plugins › Settings**, paste the manifest URL below under **Manifest URLs** and click **Add**. The panel should show version 0.4.0 or later |
 | 3. Turn it on | **Plugins › Installed › Remote Processing**, then **Remote Processing › Server connection and files** |
-| 4. Connect | Enter the server address and your access code, then **Save and connect**. The status turns green |
+| 4. Connect | In the **Settings & help** tab, enter the server address below and the access code, leave **Measure in metres** ticked, then **Save and connect**. The status turns green |
 
-The server address, the manifest URL and the download are all on the server's landing page:
+**What to paste**
+
+| | |
+|---|---|
+| Plugin manifest URL | `https://geolibre.terrawatch.net/plugin/plugin.json` |
+| Server address | `https://geolibre.terrawatch.net` |
+| Access code | Shared during the session |
+
+After connecting, note your folder id in the **Data** tab, for example `/data/u-7f3k9q2m1x`. Your outputs are written there.
+
+The same details, with copy buttons, are on the server's landing page:
 
 [:material-server-network: **Course server and setup**](https://geolibre.terrawatch.net/){ .md-button .md-button--primary }
 [:material-download: **Moroto_course_data.zip**](https://geolibre.terrawatch.net/downloads/Moroto_course_data.zip){ .md-button }
