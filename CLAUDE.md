@@ -7,6 +7,7 @@ MkDocs Material site for the IsDB GEIDA Staff Certification Programme (developed
 - Batch 1 URLs (`agenda.md`, `day-1/`…`day-4/`, `resources/`, `glossary.md`) were circulated to participants — do not move or rename them.
 - See `UPDATE_NOTES.md` for the September 2026 restructure and open items.
 - Remote: `git@github.com:spareeth/geida_foundation.git`, branch `main`. Commit messages are short lowercase phrases (e.g. "added batch 2 online session1 recordings").
+- Workflow ends at `git push` to `main`; the user deploys to the server separately. Do not add deployment steps.
 
 ## Local build (Windows)
 
