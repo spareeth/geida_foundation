@@ -11,7 +11,7 @@ MkDocs Material site for the IsDB GEIDA Staff Certification Programme (developed
 
 ## Local build (Windows)
 
-`venv/` is a stale Linux venv from the original environment; use `.venv/` instead.
+Use the `.venv/` virtual environment.
 
 ```
 python -m venv .venv
