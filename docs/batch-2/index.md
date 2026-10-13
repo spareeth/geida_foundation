@@ -8,8 +8,8 @@ September–October 2026 · Hybrid: IsDB HQ Jeddah + Online
 
 Batch 2 is the second cohort of the GEIDA Foundation Level Certification Training. It was delivered alongside the IsDB Operations Boot Camp while colleagues from the Regional Hubs were gathered at Headquarters, and runs in three parts.
 
-!!! tip "Coming next — Session 2 on Thursday 8 October"
-    Session 1 was delivered on 29 September and the recording is published on the [Part 3 page](part-3.md). The remaining sessions run on **8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
+!!! tip "The practical session is on Tuesday 13 October"
+    Session 1 was delivered on 29 September. The session planned for 8 October has been combined with the final session into a single practical session on **Tuesday 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah. See the [Part 3 page](part-3.md) for the agenda, the recording of Session 1 and the hands-on guide.
 
     [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
 
@@ -18,7 +18,7 @@ Batch 2 is the second cohort of the GEIDA Foundation Level Certification Trainin
 
     **Part 2 — In-person day.** A full day at IsDB HQ Jeddah on 10 September 2026, covering the project cycle from quality at entry through implementation monitoring to completion and evaluation, working with participants' own ongoing and pipeline projects.
 
-    **Part 3 — Online practical follow-up.** Three guided online sessions of approximately four hours each, in which participants develop an applied GEIDA case using one of their own projects, concluding with a case presentation and completion of the Foundation Level requirements.
+    **Part 3 — Online practical follow-up.** Two guided online sessions of approximately four hours each, working through the IsDB project cycle with real data, and completing the Foundation Level requirements.
 
 ---
 
@@ -28,7 +28,7 @@ Batch 2 is the second cohort of the GEIDA Foundation Level Certification Trainin
 |---|---|---|
 | Part 1 — Preparatory | Before 10 September | [Self-paced materials](../resources/preparatory-batch-2.md): EO fundamentals, tools, project data template |
 | Part 2 — [In-person day](agenda.md) | 10 September 2026 | [Morning](morning.md): EO and geoinformatics fundamentals · [Afternoon](afternoon.md): spatial analysis and the eToolkit |
-| Part 3 — [Online follow-up](part-3.md) | 29 September, 8 October and 13 October 2026 | Project mapping, baseline and risk screening · implementation monitoring and results indicators · case presentations, peer learning and certification |
+| Part 3 — [Online follow-up](part-3.md) | 29 September and 13 October 2026 | Project mapping, baseline and risk screening · site identification, access analysis and site screening across the project cycle |
 
 ---
 

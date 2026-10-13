@@ -1,29 +1,26 @@
 # Part 3 — Online Practical Follow-up
 
-**29 September, 8 October and 13 October 2026 · Online · 12:00–16:00 Dubai / 11:00–15:00 Jeddah**
+**29 September and 13 October 2026 · Online · 12:00–16:00 Dubai / 11:00–15:00 Jeddah**
 
 ---
 
-Part 3 completes the Batch 2 Foundation Level programme. Across three guided online sessions of approximately four hours each, participants develop an applied GEIDA case using their own ongoing or pipeline project, with trainer support throughout.
+Part 3 completes the Batch 2 Foundation Level programme. It runs as two guided online sessions of approximately four hours each, working through the IsDB project cycle with real data.
 
-!!! tip "Coming next — Session 2 on Thursday 8 October"
-    Session 1 was delivered on 29 September; the recording is published below. The remaining sessions run on **8 October and 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
-
-    A single Microsoft Teams link covers all three sessions.
+!!! tip "The practical session is on Tuesday 13 October"
+    The session planned for 8 October was called off, as many colleagues were on mission or preparing new operations. It has been combined with the final session into a single practical session on **Tuesday 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
 
     [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
 
-    A calendar invitation for the series is circulated by email to registered participants.
+    Meeting ID 334 859 339 838 903 · Passcode jE3X5b8E
 
 ---
 
-## Dates
+## Sessions
 
-| Session | Date | Theme |
-|---|---|---|
-| Session 1 | Tuesday 29 September 2026 | Project mapping, baseline and risk screening |
-| Session 2 | Thursday 8 October 2026 | Implementation monitoring and results indicators |
-| Session 3 | Tuesday 13 October 2026 | Case presentations, peer learning and certification |
+| Session | Date | Theme | Status |
+|---|---|---|---|
+| Session 1 | Tuesday 29 September 2026 | Project mapping, baseline and risk screening | Delivered, recording below |
+| Practical session | Tuesday 13 October 2026 | Site identification, access analysis and site screening across the project cycle | Combined from the sessions of 8 and 13 October |
 
 ---
 
@@ -57,26 +54,63 @@ The session was recorded in two parts.
   </iframe>
 </div>
 
-!!! note "Recordings for Sessions 2 and 3"
-    Published on this page after each session.
+### Practical session — 13 October
+
+The recording is published here after the session.
 
 ---
 
-## Session 2 exercises — Moroto district, Uganda
+---
 
-The Session 2 exercises run in GeoLibre in your browser. The heavy processing runs on the GEIDA course server, so nothing is installed on your laptop.
+## The practical session — 13 October
+
+The session follows a project through the IsDB project cycle, using a real country case built on national census data and the locations of schools, health facilities and roads.
+
+### Objectives
+
+- **Identification and preparation:** defining the project area and establishing a geospatial baseline from census indicators
+- **Design and appraisal:** measuring access to services, estimating beneficiaries and prioritising investment locations
+- **Risk and site screening:** screening a road corridor for physical constraints and the facilities it would serve
+- **Results and supervision:** deriving spatial indicators that link to the Results Framework and can be tracked through PIASR, PCR and PPER
+
+### Agenda
+
+| Time (Dubai) | Activity |
+|---|---|
+| 12:00 – 12:15 | Welcome, recap of Session 1, session objectives |
+| 12:15 – 13:15 | **Guided walkthrough: project identification and baseline.** Loading administrative boundaries, exploring census indicators such as out-of-school rates, and selecting the priority area for the case |
+| 13:15 – 13:30 | *Break* |
+| 13:30 – 14:30 | **Applied work: project design and appraisal.** Measuring the population living more than 5 km from a school or health facility, taking account of facility level, and ranking sub-national areas to prioritise investment |
+| 14:30 – 14:40 | *Short break* |
+| 14:40 – 15:30 | **Self-work: risk and site screening.** Building a road upgrade corridor, excluding steep slopes, reviewing land cover, counting the schools and health facilities served, and composing a map for the project document, with trainers available in breakout rooms |
+| 15:30 – 16:00 | **Share-back.** Linking the results to Results Framework indicators and supervision, and next steps |
+
+**Expected output:** project area baseline, access indicators and corridor screening map for the case.
+*Illustrative sector cases: Education, Health and Transport.*
+
+### After the session
+
+The exercises continue after the session, at your own pace. Follow-up sessions will then be arranged to carry out the same analysis for your own projects, and details will be shared with those who attend.
+
+---
+
+## Hands-on exercises — Moroto district, Uganda
+
+The exercises run in GeoLibre in your browser. The heavy processing runs on the GEIDA course server, so nothing is installed on your laptop.
 
 !!! info "Access code"
     The access code is shared during the session. It is typed into the plugin only, and is not published on this site. If you have missed it, contact the trainers.
 
 ### Setup, about ten minutes
 
+You need Chrome, Edge or Firefox, the access code, and `Moroto_course_data.zip` unzipped on your laptop.
+
 | Step | What to do |
 |---|---|
 | 1. Open GeoLibre | [web.geolibre.app](https://web.geolibre.app) — no account needed |
-| 2. Install the plugin | **Settings › Manage Plugins › Settings**, paste the manifest URL below under **Manifest URLs** and click **Add**. The panel should show version 0.4.0 or later |
+| 2. Install the plugin | **Settings › Manage Plugins › Settings**, paste the manifest URL below under **Manifest URLs** and click **Add**. The panel should show version 0.5.0 or later; if an older version is installed, remove the URL and add it again |
 | 3. Turn it on | **Plugins › Installed › Remote Processing**, then **Remote Processing › Server connection and files** |
-| 4. Connect | In the **Settings & help** tab, enter the server address below and the access code, leave **Measure in metres** ticked, then **Save and connect**. The status turns green |
+| 4. Connect | In the **Settings & help** tab, enter the server address below and the access code, leave **Measure in metres** ticked, then **Save and connect**. The status turns green and the panel switches to the **Data** tab |
 
 **What to paste**
 
@@ -86,20 +120,18 @@ The Session 2 exercises run in GeoLibre in your browser. The heavy processing ru
 | Server address | `https://geolibre.terrawatch.net` |
 | Access code | Shared during the session |
 
-After connecting, note your folder id in the **Data** tab, for example `/data/u-7f3k9q2m1x`. Your outputs are written there.
-
-The same details, with copy buttons, are on the server's landing page:
+After connecting, note your folder id in the **Data** tab, for example `/data/u-7f3k9q2m1x`. Your outputs are written there as `/data/<your folder>/<name>.tif`.
 
 [:material-server-network: **Course server and setup**](https://geolibre.terrawatch.net/){ .md-button .md-button--primary }
 [:material-download: **Moroto_course_data.zip**](https://geolibre.terrawatch.net/downloads/Moroto_course_data.zip){ .md-button }
 [:material-book-open-variant: **Step-by-step guide**](https://geolibre.terrawatch.net/guide){ .md-button }
 
-Unzip the course data on your laptop and open the vector files with **Add Data › Vector Layer**. The rasters are already on the server, under **Data › Shared course data**.
+Unzip the course data and open the vector files with **Add Data › Vector Layer**. The three rasters are already on the server, under **Data › Shared course data**: the Copernicus DEM at 30 m, ESA WorldCover 2021 at 10 m, and WorldPop 2024 at 100 m.
 
 !!! warning "Untick Run locally (WASM)"
     In every Whitebox tool dialog, untick **Run locally (WASM)** at the top right. If it stays ticked the tool runs on your laptop and cannot read the server files, and every later step fails.
 
-### The four exercises
+### The five exercises
 
 | Part | Question | Main tools |
 |---|---|---|
@@ -107,7 +139,9 @@ Unzip the course data on your laptop and open the vector files with **Add Data �
 | 1 | Who lives more than 5 km from a school? | Vector Points To Raster, Euclidean Distance, Reclass, Multiply, Zonal statistics |
 | 2 | Who lives far from a health centre, and from a proper one? | The same chain, with a filter on facility level |
 | 3 | What would a Moroto–Tapac road upgrade cross? | Buffer, Slope, Reclass, Zonal statistics, Select by Location |
-| 4 | How do I share a result as a map? | Style, Print Layout, logo on a printed map |
+| 4 | How do I share a result as a map? | Style, Layout Composer plugin |
+
+Part 4 uses the **Layout Composer** plugin, installed from the list in **Settings › Manage Plugins**. The IsDB logo is in the course zip as `isdb-logo.png`, and the layout exports to PNG at 300 dpi or to PDF.
 
 The projects used in the exercises are hypothetical. The data and the places are real.
 
@@ -123,109 +157,40 @@ Each exercise has an equivalent for your own operation.
 | Part 3 | What does your corridor, command area or site cross, and who lives in it? |
 | Part 4 | One map your task team can put in the PCN, PAD or supervision report |
 
-For the project locations submitted through the Project Data Submission Form, the trainers will prepare the equivalent population, land cover and terrain layers for your area.
+This is the subject of the follow-up sessions. For the project locations submitted through the Project Data Submission Form, the trainers will prepare the equivalent population, land cover and terrain layers for your area.
 
-### What to submit
+### Sharing your results
 
-The exercises are completed after the session.
-
-1. The four parts on Moroto, whichever were not finished during the session
-2. At least one of the four questions applied to your own project area
-3. One map exported from the Print Layout, with title, legend, scale, north arrow, source and date
-4. Your five slides for Session 3
-
-Share your results in the **Batch 2 Teams channel** or by email to the trainers, **by Sunday 11 October**, so that they can be reviewed before Session 3.
+Work through the parts that were not finished during the session, then share what you produce, a result table or a map, in the **Batch 2 Teams channel** or by email to the trainers. Questions between sessions are best asked in the channel, where others will have the same question.
 
 ### If something fails
 
-| Symptom | What to check |
+| What happens | What to do |
 |---|---|
-| The status does not turn green | The access code first, then the server address |
-| A tool fails or reads nothing | **Run locally (WASM)** is still ticked |
-| A raster input is rejected | The drop-down is on Layer instead of Path. Use **Copy path** in the Data tab |
-| Multiply or Zonal statistics fails | The two rasters are on different grids. Rebuild from the population raster as the base |
-| A selection returns unexpected counts | Missing values: some subcounties have no census figures and cannot be evaluated |
-
-Post the problem in the Teams channel with a screenshot of the tool dialog.
-
----
-
-## Cross-sector case studies
-
-Each session uses sector-based case studies to demonstrate how EO and geospatial approaches apply across the IsDB portfolio, drawing on Agriculture, Water, Health, Education, Energy and Transport.
-
-| Session | Illustrative sector cases |
-|---|---|
-| Session 1 | Agriculture and Water |
-| Session 2 | Energy and Transport |
-| Session 3 | Health and Education, plus participant projects |
+| The tool says it could not read the input, or runs very slowly | Untick **Run locally (WASM)** in the tool dialog |
+| "Failed: Tool execution failed" | Check the input path, using **Copy path**, or pick the layer from the list. Check the Reclass values are separated by semicolons |
+| The result is not in the Data tab | Click **Refresh**. If it is still missing, the tool failed: read its message |
+| Status says *Wrong access code* or *Not connected* | Re-type the server address and code in **Settings & help**, then **Save and connect** |
+| Your files are gone | You are in a new browser, or its data was cleared. Under **Your folder**, open *Use an existing folder id* and enter your old id |
+| The corridor looks wrong | Use GeoLibre's own **Buffer** tool, not Whitebox *Buffer Vector*, which mishandles long winding lines |
+| The plugin disappeared | **Settings › Manage Plugins › Settings**: remove the plugin URL, add it again, and turn it on under **Plugins › Installed** |
 
 ---
 
-## How each session runs
+## Preparation
 
-| Time (Dubai) | Block |
-|---|---|
-| 12:00–12:15 | Recap and session objectives |
-| 12:15–13:15 | Guided walkthrough with the trainers |
-| 13:15–13:30 | *Break* |
-| 13:30–14:30 | Applied work on your own project, trainers on call |
-| 14:30–14:40 | *Short break* |
-| 14:40–15:30 | Self-work, trainers available in breakout rooms |
-| 15:30–16:00 | Share-back, troubleshooting and assignment for the next session |
+Confirm the single ongoing or pipeline IsDB project you will use, and have to hand:
 
-Session 3 follows the same shape, with the later blocks given over to case presentations and peer discussion.
+- Location coordinates, boundary or area of influence, in whatever format is available
+- Key project components
+- The Results Framework and its indicators
+- Project start and expected completion dates
 
----
+Participants are grouped at Regional Hub level for this training, so kindly coordinate within your Hub team when selecting the project.
 
-## Session detail
+[:material-form-select: **Project Data Submission Form**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=CA8x2HQVG0eId0PFAyJbGrgFJg6wpgZJskdpEwAADllUNU9ZNzVJSFUwUFJDSkJINTFRTjYxT0hZTy4u){ .md-button }
 
-### Session 1 — Project mapping, baseline and risk screening *(29 September)*
-
-- Define the project location and area of influence
-- Develop or refine project boundaries
-- Identify relevant datasets
-- Generate an initial EO / geospatial baseline
-- Undertake climate, risk or site-context screening
-- Identify key findings relevant to project design
-
-**Expected output:** initial project map and EO / geospatial baseline.
-
-### Session 2 — Site identification and site assessment *(8 October)*
-
-Hands-on work in GeoLibre, using a real district and real data: the Uganda 2024 census, OpenStreetMap facilities, WorldPop, ESA WorldCover and the Copernicus DEM.
-
-- Narrow national data to one district using census attributes
-- Measure access to schools and to health facilities, weighted by population
-- Screen a road corridor for terrain, land cover and population
-- Produce a styled, sourced map for a report
-- Identify EO / geospatial indicators linked to the Results Framework
-
-**Expected output:** a site assessment for your own project area, and proposed spatial indicators.
-
-See [Session 2 exercises](#session-2-exercises-moroto-district-uganda) below for the setup, the data and the step-by-step guide.
-
-### Session 3 — Case presentations, peer learning and certification *(13 October)*
-
-- Present project location and baseline
-- Explain the operational issue addressed
-- Present the relevant EO / geospatial analysis and findings
-- Propose monitoring indicators and next steps
-- Receive peer discussion and trainer feedback
-
-**Expected output:** final participant or Hub project case presentation, and completion of the Foundation Level requirements.
-
----
-
-## The applied case
-
-Five slides, five minutes, following the structure above:
-
-1. **The project** — title, country, stage, and the operational issue addressed
-2. **Project location and baseline** — footprint and initial EO / geospatial baseline
-3. **Risk screening findings** — climate, risk or site-context screening relevant to design
-4. **Proposed monitoring indicators** — linked to the Results Framework
-5. **Next steps** — how this will be applied in the project
+Continue to use the [eToolkit](https://etoolkit.terrawatch.net) credentials issued to you earlier.
 
 ---
 
@@ -234,32 +199,17 @@ Five slides, five minutes, following the structure above:
 | | |
 |---|---|
 | **Guided technical support** | Expert trainers provide structured support throughout each session |
-| **Project-based learning** | GEIDA tools applied to real or pipeline IsDB projects, with practical outputs |
+| **Project-based learning** | GEIDA tools applied to real data, with practical outputs |
 | **Peer learning** | Sharing experience and ideas with peers across regions and sectors |
 | **Foundation Level completion** | Completing Part 3 fulfils the practical requirements of the Foundation Level |
 | **Operational impact** | Strengthened geospatial decision-making across the project cycle |
 
-**Outcome:** participants apply GEIDA tools to real projects, strengthen geospatial decision-making across the project cycle, and complete the GEIDA Foundation Staff Certification — Batch 2.
+**Outcome:** participants apply GEIDA tools to real projects, strengthen geospatial decision-making across the project cycle, and complete the GEIDA Foundation Staff Certification, Batch 2.
 
 ---
 
-## Preparation
+## Data sources
 
-Before Session 1, confirm the single ongoing or pipeline IsDB project you will use, and have to hand:
-
-- Location coordinates, boundary or area of influence, in whatever format is available
-- Key project components
-- The Results Framework and its indicators
-- Project start and expected completion dates
-
-Participants are grouped at Regional Hub level for this training, so kindly coordinate within your Hub team when selecting the project. If you have not already done so, submit your project details through the form below before Session 1.
-
-[:material-form-select: **Project Data Submission Form**](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=CA8x2HQVG0eId0PFAyJbGrgFJg6wpgZJskdpEwAADllUNU9ZNzVJSFUwUFJDSkJINTFRTjYxT0hZTy4u){ .md-button }
-
-Sessions 2 and 3 require no separate preparation — the output of the previous session carries forward.
-
-Continue to use the [eToolkit](https://etoolkit.terrawatch.net) credentials issued to you earlier.
-
----
+Uganda Bureau of Statistics, National Population and Housing Census 2024. OpenStreetMap contributors (ODbL). Copernicus DEM GLO-30. ESA WorldCover 2021 (CC BY 4.0). WorldPop 2024 (CC BY 4.0).
 
 *Materials from each session are published on this page as the sessions are delivered.*
