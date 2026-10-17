@@ -56,10 +56,26 @@ The session was recorded in two parts.
 
 Following a project through the IsDB project cycle, using the Moroto case: census-based targeting, access to schools and health facilities, road corridor screening, and composing a map for the project document.
 
+The session was recorded in two parts.
+
+**Part 1** — setup of GeoLibre and the course server, project identification and the census baseline, and the start of the access analysis.
+
 <div class="video-wrapper">
   <iframe width="100%" height="400"
     src="https://www.youtube.com/embed/JvH_n__JcS4"
-    title="GEIDA Batch 2 — Part 3, Practical Session — 13 October 2026"
+    title="GEIDA Batch 2 — Part 3, Practical Session, Part 1 — 13 October 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+**Part 2** — access to health facilities, road corridor screening, composing the map, and linking the results to indicators and supervision.
+
+<div class="video-wrapper">
+  <iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/5Zg1_UkSEs0"
+    title="GEIDA Batch 2 — Part 3, Practical Session, Part 2 — 13 October 2026"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
