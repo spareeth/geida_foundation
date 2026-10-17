@@ -6,12 +6,10 @@
 
 Part 3 completes the Batch 2 Foundation Level programme. It runs as two guided online sessions of approximately four hours each, working through the IsDB project cycle with real data.
 
-!!! tip "The practical session is on Tuesday 13 October"
-    The session planned for 8 October was called off, as many colleagues were on mission or preparing new operations. It has been combined with the final session into a single practical session on **Tuesday 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah.
+!!! success "Both sessions delivered"
+    Part 3 ran on 29 September and 13 October 2026. The session planned for 8 October was called off and combined into the practical session on 13 October.
 
-    [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
-
-    Meeting ID 334 859 339 838 903 · Passcode jE3X5b8E
+    Recordings, slide decks and the step-by-step case study manual are below. Follow-up sessions on your own projects will be arranged with those who attended.
 
 ---
 
@@ -54,11 +52,30 @@ The session was recorded in two parts.
   </iframe>
 </div>
 
-### Practical session — 13 October
+### Practical session — 13 October: site identification, access analysis and site screening
 
-The recording is published here after the session.
+Following a project through the IsDB project cycle, using the Moroto case: census-based targeting, access to schools and health facilities, road corridor screening, and composing a map for the project document.
+
+<div class="video-wrapper">
+  <iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/JvH_n__JcS4"
+    title="GEIDA Batch 2 — Part 3, Practical Session — 13 October 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
+
+## Slides and manual
+
+| Material | |
+|---|---|
+| **Practical session slides** | [:material-file-pdf-box: GEIDA Batch 2, Part 3, Practical Session](https://expocitydubai-my.sharepoint.com/:b:/g/personal/sajid_pareeth_expocitydubai_ae/IQCGUClm69rdRZeTwOl6EPknARQ6okUMpUG23IuWVC6giTg?e=d6E0Ff) |
+| **GeoLibre for GEIDA** | [:material-file-pdf-box: Introduction to GeoLibre and the course server](https://expocitydubai-my.sharepoint.com/:b:/g/personal/sajid_pareeth_expocitydubai_ae/IQB2JglkHP2YRp9BRNVheuHKAZW9zUMzwFeylALZ1lb2ve0?e=vMvQNn) |
+| **Case study manual** | [:material-book-open-variant: Moroto case studies, step by step](https://geolibre.terrawatch.net/guide) |
+| **Course data** | [:material-download: Moroto_course_data.zip](https://geolibre.terrawatch.net/downloads/Moroto_course_data.zip) |
 
 ---
 

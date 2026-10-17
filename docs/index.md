@@ -31,7 +31,7 @@ The programme is developed by Terra, Expo City Dubai, in partnership with the Is
 
     Three-part course delivered alongside the Regional Hub Operations Boot Camp · in-person day plus online practical follow-up
 
-    **Part 3: Session 1 recording available; practical session on 13 October**
+    **Part 3 complete: recordings, slides and the case study manual now available**
 
 - :material-presentation: **[Executive Briefing — Heads of Department](executive-session/index.md)**
 

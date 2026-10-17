@@ -8,10 +8,8 @@ September–October 2026 · Hybrid: IsDB HQ Jeddah + Online
 
 Batch 2 is the second cohort of the GEIDA Foundation Level Certification Training. It was delivered alongside the IsDB Operations Boot Camp while colleagues from the Regional Hubs were gathered at Headquarters, and runs in three parts.
 
-!!! tip "The practical session is on Tuesday 13 October"
-    Session 1 was delivered on 29 September. The session planned for 8 October has been combined with the final session into a single practical session on **Tuesday 13 October 2026**, 12:00–16:00 Dubai / 11:00–15:00 Jeddah. See the [Part 3 page](part-3.md) for the agenda, the recording of Session 1 and the hands-on guide.
-
-    [:material-microsoft-teams: **Join the session**](https://teams.microsoft.com/meet/334859339838903?p=a3cun8qwwIh40p08vN){ .md-button .md-button--primary }
+!!! success "Part 3 complete"
+    Both sessions have been delivered. The recordings, the slide decks and the Moroto case study manual are on the [Part 3 page](part-3.md). Follow-up sessions on participants' own projects will be arranged with those who attended.
 
 !!! info "How Batch 2 is structured"
     **Part 1 — Preparatory.** Self-paced materials issued before the in-person day, covering the fundamentals and the tools. Available in [Resources](../resources/preparatory-batch-2.md).
